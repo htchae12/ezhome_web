@@ -1,4 +1,4 @@
-name: SERVER distribute  # 알아서 이름 지으면 된다. 
+name: SERVER distribute
 
 on:
   push:
